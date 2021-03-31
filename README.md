@@ -5,3 +5,4 @@ Commit 2
 First feature commit
 Second feature commit
 Hotfix test
+feature 1
